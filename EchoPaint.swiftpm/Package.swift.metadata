@@ -1,0 +1,13 @@
+{
+  "name": "EchoPaint",
+  "description": "An accessibility drawing app that lets blind users see their art through sound and touch.",
+  "author": {
+    "name": "Swift Student",
+    "link": ""
+  },
+  "contentVersion": "1.0",
+  "formatVersion": "1.0",
+  "bundleID": "com.swiftstudent.echopaint",
+  "deploymentTarget": "iOS17.0",
+  "swiftVersion": "5.9"
+}
